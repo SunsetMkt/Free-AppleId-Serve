@@ -203,7 +203,7 @@ PS：最好月付，防止跑路！
 ## Shadowrocket账号
 
 <!-- updateTime starts -->
-更新时间：**2024-04-09 13:18:54**
+更新时间：**2024-04-09 14:16:54**
 <!-- updateTime ends -->
 
 注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
@@ -215,7 +215,7 @@ PS：最好月付，防止跑路！
 * 账号：`jacob1s2wilson@outlook.com` 
  * 密码：`RSg76h32`
 * 账号：`jaty2wmoreno@outlook.com` 
- * 密码：`XMb61r43`
+ * 密码：`GPe92y53`
 <!-- apple ends -->
 
 ### 使用教程
